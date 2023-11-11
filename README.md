@@ -1,5 +1,5 @@
 # gbsort
-归并排序作业  
+归并排序作业```  
 #include<iostream>  
 using namespace std;  
 void merge(int arr[], int l, int m, int r)  
@@ -40,3 +40,4 @@ int main()
         cout<<a[i]<<" ";  
     return 0;  
 }  
+```
